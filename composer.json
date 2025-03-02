@@ -1,0 +1,17 @@
+{
+    "name": "vedrinekendji/test_by_jiordi",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Src\\": "src/",
+            "Biblio\\":"biblio/",
+            "Src\\Gestion\\":"src/gestion"
+        }
+    },
+    "authors": [
+        {
+            "name": "vedrine kendji"
+        }
+    ],
+    "require": {}
+}
